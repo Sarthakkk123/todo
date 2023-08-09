@@ -32,6 +32,10 @@
   font-size: 14px;
 }
 
+.delete-icon{
+  margin-left: 10px;
+}
+
 .cdk-drag-preview {
   box-sizing: border-box;
   border-radius: 4px;
